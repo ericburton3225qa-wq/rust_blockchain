@@ -391,3 +391,4 @@
 2017-05-02 11:45:23 - refactor: clean up utils
 2017-05-08 11:35:21 - chore: update requirements.txt
 2017-05-13 19:04:41 - chore: update dependencies
+2017-05-18 18:00:49 - test: add unit tests for nlp module
