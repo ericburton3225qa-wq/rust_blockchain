@@ -392,3 +392,4 @@
 2017-05-08 11:35:21 - chore: update requirements.txt
 2017-05-13 19:04:41 - chore: update dependencies
 2017-05-18 18:00:49 - test: add unit tests for nlp module
+2017-05-29 18:05:19 - feat: improve training pipeline
