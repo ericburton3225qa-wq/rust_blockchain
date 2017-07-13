@@ -398,3 +398,4 @@
 2017-06-15 13:50:03 - fix: update response parser
 2017-06-24 16:32:49 - docs: add installation guide
 2017-07-06 17:53:06 - feat: add initial function
+2017-07-13 12:26:52 - test: extend test coverage
