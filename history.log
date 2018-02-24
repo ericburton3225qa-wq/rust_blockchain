@@ -425,3 +425,4 @@
 2018-02-03 15:31:37 - test: add unit tests for nlp module
 2018-02-11 15:57:25 - refactor: optimize message handling
 2018-02-17 20:07:35 - refactor: optimize message handling
+2018-02-24 13:00:22 - refactor: clean up utils
