@@ -49,3 +49,4 @@
 2018-03-01 11:13:25 - feat: add logging support
 2018-03-12 11:10:30 - fix: handle empty input gracefully
 2018-03-23 18:38:53 - feat: support user sessions
+2018-03-29 12:25:27 - chore: update dependencies
