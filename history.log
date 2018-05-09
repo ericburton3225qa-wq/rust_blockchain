@@ -54,3 +54,4 @@
 2018-04-14 09:18:52 - fix: handle empty input gracefully
 2018-04-23 15:40:28 - fix: handle empty input gracefully
 2018-05-04 14:39:36 - refactor: clean up utils
+2018-05-09 13:06:34 - refactor: clean up utils
