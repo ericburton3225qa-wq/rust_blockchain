@@ -438,3 +438,4 @@
 2018-05-28 14:32:41 - fix: update response parser
 2018-06-07 12:06:24 - feat: add logging support
 2018-06-17 19:39:41 - fix: handle empty input gracefully
+2018-06-23 16:57:35 - fix: handle empty input gracefully
