@@ -459,3 +459,4 @@
 2018-11-25 09:25:38 - docs: update usage examples
 2018-12-01 11:20:17 - test: extend test coverage
 2018-12-07 19:26:27 - fix: update response parser
+2018-12-13 11:25:23 - feat: improve training pipeline
