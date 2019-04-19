@@ -473,3 +473,4 @@
 2019-03-20 10:10:39 - fix: typo in README
 2019-03-29 19:43:05 - docs: update usage examples
 2019-04-09 19:16:00 - fix: handle empty input gracefully
+2019-04-19 09:52:11 - fix: handle empty input gracefully
