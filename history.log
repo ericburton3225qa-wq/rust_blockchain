@@ -92,3 +92,4 @@
 2019-03-19 18:27:42 - fix: handle empty input gracefully
 2019-03-31 18:10:04 - chore: update dependencies
 2019-04-08 17:42:40 - docs: update usage examples
+2019-04-19 20:09:53 - chore: update requirements.txt
