@@ -101,3 +101,4 @@
 2019-06-15 15:27:09 - test: add unit tests for nlp module
 2019-06-23 13:44:46 - fix: update response parser
 2019-07-05 17:06:19 - docs: add installation guide
+2019-07-12 18:27:34 - feat: add logging support
