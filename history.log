@@ -104,3 +104,4 @@
 2019-07-12 18:27:34 - feat: add logging support
 2019-07-18 14:45:42 - feat: add logging support
 2019-07-23 14:26:45 - refactor: optimize message handling
+2019-07-30 19:18:15 - test: extend test coverage
