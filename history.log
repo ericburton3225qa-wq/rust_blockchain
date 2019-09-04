@@ -108,3 +108,4 @@
 2019-08-10 19:48:51 - feat: add initial function
 2019-08-15 11:59:36 - test: add unit tests for nlp module
 2019-08-26 12:55:08 - fix: handle empty input gracefully
+2019-09-04 11:49:39 - chore: update dependencies
