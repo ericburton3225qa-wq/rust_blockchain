@@ -110,3 +110,4 @@
 2019-08-26 12:55:08 - fix: handle empty input gracefully
 2019-09-04 11:49:39 - chore: update dependencies
 2019-09-14 16:25:45 - refactor: clean up utils
+2019-09-20 19:59:36 - feat: improve training pipeline
