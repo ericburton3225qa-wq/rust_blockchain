@@ -114,3 +114,4 @@
 2019-09-25 12:55:55 - feat: add initial function
 2019-10-06 14:24:50 - feat: improve training pipeline
 2019-10-15 10:11:15 - fix: handle empty input gracefully
+2019-10-23 15:22:58 - test: extend test coverage
