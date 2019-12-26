@@ -502,3 +502,4 @@
 2019-11-30 11:06:06 - feat: add initial function
 2019-12-11 11:26:55 - docs: add installation guide
 2019-12-21 17:41:46 - chore: update requirements.txt
+2019-12-26 15:48:47 - refactor: clean up utils
