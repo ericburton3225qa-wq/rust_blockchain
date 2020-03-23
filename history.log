@@ -512,3 +512,4 @@
 2020-02-29 15:34:16 - chore: update requirements.txt
 2020-03-05 11:13:26 - test: add unit tests for nlp module
 2020-03-13 09:31:23 - refactor: clean up utils
+2020-03-22 20:31:19 - fix: typo in README
