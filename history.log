@@ -134,3 +134,4 @@
 2020-03-25 09:38:18 - feat: support user sessions
 2020-04-04 18:31:32 - fix: handle empty input gracefully
 2020-04-10 19:53:04 - docs: update usage examples
+2020-04-22 17:30:39 - test: extend test coverage
