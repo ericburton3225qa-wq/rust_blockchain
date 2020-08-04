@@ -147,3 +147,4 @@
 2020-07-11 14:49:04 - docs: add installation guide
 2020-07-20 19:34:28 - chore: update requirements.txt
 2020-07-27 20:24:49 - feat: add initial function
+2020-08-04 15:18:03 - refactor: clean up utils
