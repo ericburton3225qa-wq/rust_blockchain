@@ -547,3 +547,4 @@
 2020-12-15 16:50:39 - feat: add logging support
 2020-12-22 10:02:30 - fix: update response parser
 2021-01-01 12:46:41 - test: add unit tests for nlp module
+2021-01-08 15:56:31 - feat: improve training pipeline
