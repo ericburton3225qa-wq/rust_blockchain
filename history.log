@@ -169,3 +169,4 @@
 2021-01-10 09:44:12 - test: add unit tests for nlp module
 2021-01-15 11:30:27 - feat: improve training pipeline
 2021-01-21 17:59:11 - feat: add logging support
+2021-02-02 09:37:17 - refactor: optimize message handling
