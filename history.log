@@ -170,3 +170,4 @@
 2021-01-15 11:30:27 - feat: improve training pipeline
 2021-01-21 17:59:11 - feat: add logging support
 2021-02-02 09:37:17 - refactor: optimize message handling
+2021-02-08 19:43:33 - fix: update response parser
