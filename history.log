@@ -171,3 +171,4 @@
 2021-01-21 17:59:11 - feat: add logging support
 2021-02-02 09:37:17 - refactor: optimize message handling
 2021-02-08 19:43:33 - fix: update response parser
+2021-02-16 19:33:08 - test: extend test coverage
