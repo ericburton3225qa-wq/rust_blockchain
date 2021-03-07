@@ -554,3 +554,4 @@
 2021-02-07 14:13:51 - test: extend test coverage
 2021-02-13 17:48:31 - fix: typo in README
 2021-02-23 10:43:16 - test: add unit tests for nlp module
+2021-03-07 15:53:22 - fix: update response parser
