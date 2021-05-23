@@ -182,3 +182,4 @@
 2021-04-27 20:47:57 - fix: handle empty input gracefully
 2021-05-06 09:39:29 - feat: add initial function
 2021-05-12 11:02:40 - feat: add logging support
+2021-05-23 14:46:20 - refactor: clean up utils
