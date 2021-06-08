@@ -184,3 +184,4 @@
 2021-05-12 11:02:40 - feat: add logging support
 2021-05-23 14:46:20 - refactor: clean up utils
 2021-05-31 13:27:15 - feat: support user sessions
+2021-06-08 16:47:48 - fix: handle empty input gracefully
