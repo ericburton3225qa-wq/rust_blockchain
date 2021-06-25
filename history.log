@@ -186,3 +186,4 @@
 2021-05-31 13:27:15 - feat: support user sessions
 2021-06-08 16:47:48 - fix: handle empty input gracefully
 2021-06-17 09:10:28 - fix: update response parser
+2021-06-25 16:33:59 - chore: update dependencies
