@@ -198,3 +198,4 @@
 2021-09-02 12:52:30 - refactor: clean up utils
 2021-09-11 10:18:03 - feat: add logging support
 2021-09-18 09:06:19 - fix: typo in README
+2021-09-23 13:31:27 - test: add unit tests for nlp module
