@@ -580,3 +580,4 @@
 2021-09-14 12:04:00 - chore: update dependencies
 2021-09-24 17:34:28 - fix: handle empty input gracefully
 2021-10-01 19:03:42 - fix: update response parser
+2021-10-10 13:43:32 - docs: add installation guide
