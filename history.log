@@ -209,3 +209,4 @@
 2021-12-01 20:09:10 - feat: improve training pipeline
 2021-12-08 20:55:51 - chore: update requirements.txt
 2021-12-17 16:59:27 - chore: update dependencies
+2021-12-27 11:43:01 - test: add unit tests for nlp module
