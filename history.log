@@ -603,3 +603,4 @@
 2022-04-09 14:48:55 - chore: update dependencies
 2022-04-14 19:14:09 - fix: handle empty input gracefully
 2022-04-20 11:07:57 - feat: support user sessions
+2022-04-26 19:32:22 - feat: add logging support
