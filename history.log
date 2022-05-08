@@ -224,3 +224,4 @@
 2022-04-08 13:20:37 - docs: add installation guide
 2022-04-18 17:38:28 - fix: typo in README
 2022-04-30 19:36:17 - test: add unit tests for nlp module
+2022-05-08 16:58:34 - chore: update requirements.txt
