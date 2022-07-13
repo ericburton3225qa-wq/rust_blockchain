@@ -232,3 +232,4 @@
 2022-06-13 19:14:07 - fix: update response parser
 2022-06-20 10:34:42 - test: add unit tests for nlp module
 2022-07-02 17:16:54 - docs: update usage examples
+2022-07-13 09:42:41 - feat: add logging support
