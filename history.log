@@ -614,3 +614,4 @@
 2022-06-29 19:39:10 - fix: typo in README
 2022-07-08 15:11:55 - docs: add installation guide
 2022-07-13 19:31:18 - feat: improve training pipeline
+2022-07-20 11:41:37 - test: extend test coverage
