@@ -240,3 +240,4 @@
 2022-08-26 13:10:32 - chore: update requirements.txt
 2022-09-04 18:52:21 - feat: add logging support
 2022-09-16 15:08:03 - fix: update response parser
+2022-09-23 09:04:50 - docs: update usage examples
