@@ -266,3 +266,4 @@
 2023-04-01 14:57:18 - fix: typo in README
 2023-04-12 16:40:38 - feat: improve training pipeline
 2023-04-21 11:40:46 - fix: update response parser
+2023-04-29 16:11:00 - test: extend test coverage
