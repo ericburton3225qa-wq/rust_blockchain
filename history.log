@@ -649,3 +649,4 @@
 2023-04-28 15:33:57 - feat: improve training pipeline
 2023-05-10 15:32:04 - feat: improve training pipeline
 2023-05-21 11:06:19 - test: extend test coverage
+2023-05-27 19:42:02 - fix: handle empty input gracefully
