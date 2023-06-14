@@ -651,3 +651,4 @@
 2023-05-21 11:06:19 - test: extend test coverage
 2023-05-27 19:42:02 - fix: handle empty input gracefully
 2023-06-05 20:09:47 - fix: typo in README
+2023-06-13 20:07:46 - feat: add logging support
