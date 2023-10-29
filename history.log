@@ -289,3 +289,4 @@
 2023-10-04 12:26:03 - refactor: clean up utils
 2023-10-14 14:17:22 - test: extend test coverage
 2023-10-23 18:20:57 - test: add unit tests for nlp module
+2023-10-29 16:28:36 - feat: add logging support
