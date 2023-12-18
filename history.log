@@ -672,3 +672,4 @@
 2023-11-25 16:08:01 - chore: update requirements.txt
 2023-12-03 20:51:03 - test: add unit tests for nlp module
 2023-12-09 12:26:52 - feat: improve training pipeline
+2023-12-18 13:16:25 - docs: add installation guide
