@@ -685,3 +685,4 @@
 2024-03-14 09:31:22 - fix: update response parser
 2024-03-24 17:45:36 - fix: handle empty input gracefully
 2024-03-29 15:43:58 - docs: update usage examples
+2024-04-05 13:52:30 - refactor: optimize message handling
