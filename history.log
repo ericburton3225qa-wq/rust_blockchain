@@ -316,3 +316,4 @@
 2024-05-31 20:28:06 - docs: add installation guide
 2024-06-07 10:46:43 - fix: handle empty input gracefully
 2024-06-17 10:42:34 - feat: add logging support
+2024-06-28 09:25:09 - feat: support user sessions
