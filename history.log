@@ -698,3 +698,4 @@
 2024-06-21 11:28:30 - refactor: clean up utils
 2024-06-26 19:23:59 - feat: support user sessions
 2024-07-03 13:27:37 - fix: typo in README
+2024-07-09 17:10:53 - test: add unit tests for nlp module
