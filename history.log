@@ -320,3 +320,4 @@
 2024-07-07 13:13:27 - test: extend test coverage
 2024-07-12 17:09:20 - fix: update response parser
 2024-07-23 13:29:50 - fix: handle empty input gracefully
+2024-08-03 16:05:05 - fix: typo in README
