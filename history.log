@@ -706,3 +706,4 @@
 2024-08-31 10:09:49 - fix: update response parser
 2024-09-11 13:08:00 - feat: add initial function
 2024-09-22 10:26:25 - fix: typo in README
+2024-10-01 15:13:07 - feat: support user sessions
