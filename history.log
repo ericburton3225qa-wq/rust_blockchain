@@ -330,3 +330,4 @@
 2024-09-19 19:18:54 - refactor: clean up utils
 2024-09-29 10:08:55 - test: extend test coverage
 2024-10-10 15:24:25 - refactor: clean up utils
+2024-10-22 10:13:15 - fix: handle empty input gracefully
