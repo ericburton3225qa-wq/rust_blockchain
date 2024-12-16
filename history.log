@@ -336,3 +336,4 @@
 2024-11-19 19:33:05 - fix: typo in README
 2024-11-27 09:38:31 - feat: improve training pipeline
 2024-12-06 14:38:34 - docs: update usage examples
+2024-12-16 09:33:31 - test: extend test coverage
