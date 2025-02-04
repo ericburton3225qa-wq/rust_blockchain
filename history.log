@@ -342,3 +342,4 @@
 2025-01-10 18:42:58 - feat: add initial function
 2025-01-22 14:46:17 - feat: support user sessions
 2025-01-28 13:22:30 - docs: update usage examples
+2025-02-04 09:07:54 - refactor: optimize message handling
