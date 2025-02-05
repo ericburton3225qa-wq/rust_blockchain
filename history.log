@@ -721,3 +721,4 @@
 2025-01-07 10:58:05 - fix: typo in README
 2025-01-16 12:13:43 - docs: update usage examples
 2025-01-28 13:44:01 - chore: update requirements.txt
+2025-02-05 11:30:44 - test: add unit tests for nlp module
