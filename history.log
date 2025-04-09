@@ -349,3 +349,4 @@
 2025-03-16 12:57:46 - docs: add installation guide
 2025-03-24 20:52:38 - refactor: clean up utils
 2025-03-30 18:31:56 - docs: update usage examples
+2025-04-09 14:16:46 - fix: update response parser
