@@ -738,3 +738,4 @@
 2025-05-31 09:58:51 - feat: add logging support
 2025-06-11 15:48:24 - chore: update dependencies
 2025-06-20 13:42:16 - feat: improve training pipeline
+2025-06-29 09:04:49 - test: add unit tests for nlp module
