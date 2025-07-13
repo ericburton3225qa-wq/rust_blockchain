@@ -359,3 +359,4 @@
 2025-06-15 18:15:03 - test: add unit tests for nlp module
 2025-06-25 15:35:58 - docs: add installation guide
 2025-07-06 10:31:37 - feat: improve training pipeline
+2025-07-12 18:50:20 - test: extend test coverage
