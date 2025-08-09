@@ -743,3 +743,4 @@
 2025-07-14 11:12:21 - feat: add initial function
 2025-07-19 12:09:26 - feat: improve training pipeline
 2025-07-28 15:01:31 - refactor: clean up utils
+2025-08-08 19:31:04 - fix: handle empty input gracefully
