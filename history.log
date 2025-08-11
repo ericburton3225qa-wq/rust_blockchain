@@ -362,3 +362,4 @@
 2025-07-12 18:50:20 - test: extend test coverage
 2025-07-24 11:36:24 - fix: typo in README
 2025-07-31 12:20:01 - fix: handle empty input gracefully
+2025-08-10 20:56:48 - feat: support user sessions
