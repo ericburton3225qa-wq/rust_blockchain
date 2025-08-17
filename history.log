@@ -744,3 +744,4 @@
 2025-07-19 12:09:26 - feat: improve training pipeline
 2025-07-28 15:01:31 - refactor: clean up utils
 2025-08-08 19:31:04 - fix: handle empty input gracefully
+2025-08-16 20:22:53 - fix: typo in README
