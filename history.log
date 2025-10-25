@@ -371,3 +371,4 @@
 2025-10-01 13:07:27 - refactor: optimize message handling
 2025-10-07 10:53:28 - feat: add logging support
 2025-10-17 18:55:01 - test: extend test coverage
+2025-10-25 11:41:56 - fix: handle empty input gracefully
