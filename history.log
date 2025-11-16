@@ -756,3 +756,4 @@
 2025-10-24 13:19:07 - chore: update requirements.txt
 2025-11-05 12:19:59 - docs: update usage examples
 2025-11-10 15:32:43 - fix: handle empty input gracefully
+2025-11-16 12:07:19 - docs: add installation guide
